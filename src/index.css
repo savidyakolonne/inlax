@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+/* index.css or App.css */
+/* body {
+  overflow-x: hidden;
+} */
+
+*{
+  font-family: "Montserrat";
+}
+
+@keyframes shake {
+  10% {
+    transform: scale(1) rotate(5deg);
+  }
+  20% {
+    transform: scale(1) rotate(-5deg);
+  }
+  30% {
+    transform: scale(1) rotate(5deg);
+  }
+  40% {
+    transform: scale(1) rotate(0deg);
+  }
+  100% {
+    transform: scale(1) rotate(0deg);
+  }
+}
+
+.shake-see-projects {
+  animation: shake 2s infinite !important;
+}
