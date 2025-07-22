@@ -44,7 +44,7 @@ const Footer = () => {
 
       {/* Copyright */}
         <div className="pt-20 items-center text-center text-sm text-gray-600">
-          © 2025 <a href="#" className="font-medium text-blue-500 hover:underline">iNLAX</a>. All rights reserved.
+          © 2025 <a href="https://www.inlax.site/" className="font-medium text-blue-500 hover:underline">iNLAX</a>. All rights reserved.
         </div>
 
       
