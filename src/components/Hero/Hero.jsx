@@ -42,7 +42,7 @@ const Hero = () => {
     <section className='flex flex-col md:flex-row items-center justify-between px-4 sm:px-6 md:px-8 py-40 bg-white w-full overflow-hidden'>
 
       {/* Left Side - Text */}
-      <div className='md:w-1/2 text-center md:text-left mb-8 md:mb-0 pl-4 sm:pl-6 md:pl-12 flex flex-col items-center md:items-start'>
+     <div className='md:w-1/2 text-center md:text-left mb-8 md:mb-0 pl-4 sm:pl-6 md:pl-12 flex flex-col items-center md:items-start'>
 
   <motion.h1
     className='text-3xl md:text-5xl font-bold text-gray-800 leading-snug h-[120px]'
